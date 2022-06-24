@@ -1,0 +1,18 @@
+{
+  "name": "api_backend",
+  "version": "1.0.0",
+  "description": "API desenvolvida na aula 08 Backend com Rodrigo Gonçalves Santana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Lidiane Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
