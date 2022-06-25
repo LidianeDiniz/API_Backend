@@ -10,7 +10,10 @@
   "author": "Lidiane Diniz",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
